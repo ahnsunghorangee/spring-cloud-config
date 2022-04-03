@@ -1,6 +1,6 @@
 token:
-  expiration_time: 8640000
-  secret: user_token
+  expiration_time: 8640000 # 하루 밀리세컨드: 24 * 60 * 60 * 1000
+  secret: user_token_TEST
 
 gateway:
   ip: 192.168.35.30
